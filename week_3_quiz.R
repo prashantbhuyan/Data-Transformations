@@ -1,5 +1,5 @@
 # Prashant B. Bhuyan
-# is607 Data Acquisition and Management Week 3 Quiz Solutions
+# tranformations qz
 
 ##### Problem 1 #####
 
